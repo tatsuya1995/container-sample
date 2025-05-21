@@ -2,8 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPOSITORY: 722015880532.dkr.ecr.us-east-1.amazonaws.com/cdk-hnb659fds-container-assets-722015880532-us-east-1
-
+    ECR_REPOSITORY: 722015880532.dkr.ecr.ap-northeast-1.amazonaws.com/test-ecr
 phases:
   pre_build:
     commands:
